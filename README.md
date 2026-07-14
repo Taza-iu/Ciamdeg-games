@@ -1,2 +1,0 @@
-# Ciamdeg-games
-game
